@@ -9,7 +9,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 <details>
 <summary> News 2026 </summary>
 
-[2026.xx.xx] Update SNN-related papers in AAAI 2026 (xx papers).
+[2026.03.24] Update SNN-related papers in AAAI 2026 (33 papers), ICLR 2026 (30 papers).
 
 </details>
 
