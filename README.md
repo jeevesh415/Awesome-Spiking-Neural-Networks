@@ -67,6 +67,36 @@ If you own or find some overlooked SNN papers, you can add them to this document
 **Nature, Science, Cell**
 
 **AAAI, ICLR**
+- Robustify Spiking Neural Networks via Dominant Singular Deflation under Heterogeneous Training Vulnerability (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10010693)]
+- A Brain-Inspired Gating Mechanism Unlocks Robust Computation in Spiking Neural Networks (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10011430)]
+- Training Deep Normalization-Free Spiking Neural Networks with Lateral Inhibition. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10009258)]
+- 3DSMT: A Hybrid Spiking Mamba-Transformer for Point Cloud Analysis. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10010096)]
+- Neural Dynamics Self-Attention for Spiking Transformers. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10007889)]
+- Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10008650)]
+- Cannistraci-Hebb Training on Ultra-Sparse Spiking Neural Networks. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10007264)]
+- CaRe-BN: Precise Moving Statistics for Stabilizing Spiking Neural Networks in Reinforcement Learning. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10011021)]
+- Otters: An Energy-Efficient Spiking Transformer via Optical Time-to-First-Spike Encoding. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10007423)]
+- Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10011366)]
+- SAFA-SNN: Sparsity-Aware On-Device Few-Shot Class-Incremental Learning with Fast-Adaptive Structure of Spiking Neural Network. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10011088)]
+- Robust Spiking Neural Networks Against Adversarial Attacks. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10007241)]
+- TP-Spikformer: Token Pruned Spiking Transformer. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10010064)]
+- Breaking Gradient Temporal Collinearity for Robust Spiking Neural Networks. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10006881)]
+- Random Spiking Neural Networks are Stable and Spectrally Simple. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10009762)]
+- Many Eyes, One Mind: Temporal Multi-Perspective and Progressive Distillation for Spiking Neural Networks. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10009850)]
+- Robust Selective Activation with Randomized Temporal K-Winner-Take-All in Spiking Neural Networks for Continual Learning. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10006915)]
+- Towards Lossless Memory-efficient Training of Spiking Neural Networks via Gradient Checkpointing and Spike Compression. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10007453)]
+- Beyond Linear Processing: Dendritic Bilinear Integration in Spiking Neural Networks. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10011474)]
+- Spiking Discrepancy Transformer for Point Cloud Analysis. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10011321)]
+- PredNext: Explicit Cross-View Temporal Prediction for Unsupervised Learning in Spiking Neural Networks. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10010014)]
+- Difference Predictive Coding for Training Spiking Neural Networks. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10007923)]
+- Advancing Spatiotemporal Representations in Spiking Neural Networks via Parametric Invertible Transformation. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10011650)]
+- Fractional-Order Spiking Neural Network. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10009869)]
+- SpikeGen: Decoupled “Rods and Cones” Visual Representation Processing with Latent Generative Framework. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10009062)]
+- Biologically Plausible Learning via Bidirectional Spike-Based Distillation. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10009918)]
+- Distribution-Aware Multi-Granularity Phase Coding: Towards Lower Conversion Error for Spike-Driven Large Language Models. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10007555)]
+- SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10007680)]
+- SpikePingpong: Spike Vision-based Fast-Slow Pingpong Robot System. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10008450)]
+- Spike-based Digital Brain: a novel fundamental model for brain activity analysis. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10009923)]
 - Activation-wise Propagation: A One-Timestep Strategy for Spiking Neural Networks (**AAAI 2026**). 
 - SpikingIR: A Novel Converted Spiking Neural Network for Efficient Image Restoration (**AAAI 2026**). 
 - A Closer Look at Knowledge Distillation in Spiking Neural Network Training (**AAAI 2026**). 
