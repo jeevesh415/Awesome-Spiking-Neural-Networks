@@ -97,39 +97,44 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10007680)]
 - SpikePingpong: Spike Vision-based Fast-Slow Pingpong Robot System. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10008450)]
 - Spike-based Digital Brain: a novel fundamental model for brain activity analysis. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10009923)]
-- Activation-wise Propagation: A One-Timestep Strategy for Spiking Neural Networks (**AAAI 2026**). 
-- SpikingIR: A Novel Converted Spiking Neural Network for Efficient Image Restoration (**AAAI 2026**). 
-- A Closer Look at Knowledge Distillation in Spiking Neural Network Training (**AAAI 2026**). 
-- Optimization Method for Surrogate Function in Spiking Neural Networks Based on Membrane Potential Distribution (**AAAI 2026**). 
-- Parallel Training Time-to-First-Spike Spiking Neural Networks (**AAAI 2026**). 
-- HardF-SNN: Hardware-Friendly Quantization for Spiking Neural Networks with Efficient Integer-Arithmetic-Only Inference (**AAAI 2026**). 
-- SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition (**AAAI 2026**). 
-- Timestep-Compressed Attack on Spiking Neural Networks Through Timestep-Level Backpropagation (**AAAI 2026**). 
-- Firing Bits Where It Matters: Spiking-Guided Just Recognizable Distortion Modeling for Machine-Centric Video Coding (**AAAI 2026**). 
-- MPD-SGR: Robust Spiking Neural Networks with Membrane Potential Distribution-Driven Surrogate Gradient Regularization (**AAAI 2026**). 
-- Training-Free ANN-to-SNN Conversion for High-Performance Spiking Transformers (**AAAI 2026**). 
-- Spikingformer: A Key Foundation Model for Spiking Neural Networks (**AAAI 2026**). 
-- I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks (**AAAI 2026**). 
-- S³: Spiking Neurons as an Isolating Segmenter for Brain Signal Decoding (**AAAI 2026**). 
-- TDSNNs: Competitive Topographic Deep Spiking Neural Networks for Visual Cortex Modeling (**AAAI 2026**). 
-- Temporal Dynamics Enhancer for Directly Trained Spiking Object Detectors (**AAAI 2026**). 
-- Spiking Heterogeneous Graph Attention Networks (**AAAI 2026**). 
-- Oligodendrocyte-Driven Spiking Neural Model (**AAAI 2026**). 
-- HLML-SNN：Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning (**AAAI 2026**). 
-- DS-ATGO: Dual-Stage Synergistic Learning via Forward Adaptive Threshold and Backward Gradient Optimization for Spiking Neural Networks (**AAAI 2026**). 
-- Pseudo-Spiking Neurons: A Noise-Based Training Framework for Heterogeneous-Latency Spiking Neural Networks (**AAAI 2026**). 
-- Spatial-Frequency Spiking Neural Network for Underwater Object Detection (**AAAI 2026**). 
-- SFedHIFI: Fire Rate-Based Heterogeneous Information Fusion for Spiking Federated Learning (**AAAI 2026**). 
-- Dynamic Weight Adaptation in Spiking Neural Networks Inspired by Biological Homeostasis (**AAAI 2026**). 
-- GT-SNT: A Linear-Time Transformer for Large-Scale Graphs via Spiking Node Tokenization (**AAAI 2026**). 
-- Exploring the Potentials of Spiking Neural Networks for Image Deraining (**AAAI 2026**). 
-- Spiking-Aided Neural Architecture for Efficient and Robust WiFi Sensing (**AAAI 2026**). 
-- Stabilizing Spiking Neurons Through Biologically Inspired Polarization (**AAAI 2026**). 
+- Activation-wise Propagation: A One-Timestep Strategy for Spiking Neural Networks (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37187)]
+- SpikingIR: A Novel Converted Spiking Neural Network for Efficient Image Restoration (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37769)] 
+- A Closer Look at Knowledge Distillation in Spiking Neural Network Training (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37769)] 
+- Optimization Method for Surrogate Function in Spiking Neural Networks Based on Membrane Potential Distribution (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39769)] 
+- Parallel Training Time-to-First-Spike Spiking Neural Networks (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37149)] 
+- HardF-SNN: Hardware-Friendly Quantization for Spiking Neural Networks with Efficient Integer-Arithmetic-Only Inference (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37174)] 
+- SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37194)] 
+- Timestep-Compressed Attack on Spiking Neural Networks Through Timestep-Level Backpropagation (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37479)] 
+- Firing Bits Where It Matters: Spiking-Guided Just Recognizable Distortion Modeling for Machine-Centric Video Coding (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38935)] 
+- MPD-SGR: Robust Spiking Neural Networks with Membrane Potential Distribution-Driven Surrogate Gradient Regularization (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37166)] 
+- Training-Free ANN-to-SNN Conversion for High-Performance Spiking Transformers (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37195)] 
+- Spikingformer: A Key Foundation Model for Spiking Neural Networks (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37207)] 
+- I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37179)] 
+- S³: Spiking Neurons as an Isolating Segmenter for Brain Signal Decoding (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38869)] 
+- TDSNNs: Competitive Topographic Deep Spiking Neural Networks for Visual Cortex Modeling (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37208)] 
+- Temporal Dynamics Enhancer for Directly Trained Spiking Object Detectors (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37178)] 
+- Spiking Heterogeneous Graph Attention Networks (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39068)] 
+- Oligodendrocyte-Driven Spiking Neural Model (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39306)] 
+- HLML-SNN：Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning (**AAAI 2026**). [[paper]()] 
+- DS-ATGO: Dual-Stage Synergistic Learning via Forward Adaptive Threshold and Backward Gradient Optimization for Spiking Neural Networks (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37165)] 
+- Pseudo-Spiking Neurons: A Noise-Based Training Framework for Heterogeneous-Latency Spiking Neural Networks (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/40086)] 
+- Spatial-Frequency Spiking Neural Network for Underwater Object Detection (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39109)] 
+- SFedHIFI: Fire Rate-Based Heterogeneous Information Fusion for Spiking Federated Learning (**AAAI 2026**).[[paper]()] 
+- Dynamic Weight Adaptation in Spiking Neural Networks Inspired by Biological Homeostasis (**AAAI 2026**).[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/40146)] 
+- GT-SNT: A Linear-Time Transformer for Large-Scale Graphs via Spiking Node Tokenization (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38667)] 
+- Exploring the Potentials of Spiking Neural Networks for Image Deraining (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37295)] 
+- Spiking-Aided Neural Architecture for Efficient and Robust WiFi Sensing (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39589)] 
+- Stabilizing Spiking Neurons Through Biologically Inspired Polarization (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39435)] 
 - Spike Stream Memory Transfer for Dynamic Scene Reconstruction (**AAAI 2026**). 
-- LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models (**AAAI 2026**). 
-- Spike Imaging Velocimetry: Dense Motion Estimation of Fluids Using Spike Streams (**AAAI 2026**). 
-- BulletTime4D: Towards High Spatio-Temporal Resolution Dynamic Scene Rendering via Spike-Guided Stereo Vision (**AAAI 2026**). 
+- LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37151)] 
+- Spike Imaging Velocimetry: Dense Motion Estimation of Fluids Using Spike Streams (**AAAI 2026**).
+- BulletTime4D: Towards High Spatio-Temporal Resolution Dynamic Scene Rendering via Spike-Guided Stereo Vision (**AAAI 2026**).
 - Robust Noise Modeling for Spike Camera via Time-Interval Quantification and Spike-DSLR Multimodal Dataset in Low-Light Imaging (**AAAI 2026**). 
+- HLML-SNN：Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning(**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39942)] 
+- Generalized Threshold Optimization with Harmony Multi-Threshold Neurons for Accurate ANN-to-SNN Conversion (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37206)] 
+- HypoxSpike: Ternary Spiking Neural Network for Opioid Overdose Detection (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/41237)] 
+- Bi-Spectrum Distillation: Addressing Spectral Mismatch in ANN-SNN Knowledge Transfer (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/40085)] 
+- Towards Training-Free and Accurate ANN-to-SNN Conversion via Activation-Aware Redistribution (**AAAI 2026**). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37148)] 
 
 
 ### 2025
